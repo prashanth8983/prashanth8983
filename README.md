@@ -1,38 +1,34 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Prashanth Kumar
 
-Welcome to my GitHub profile! I'm a [your role, e.g., developer, designer, data scientist] passionate about [your interests, e.g., building cool projects, solving problems, learning new tech].
+I'm a **Software Engineer** and **MS Computer Science** student at NYU, passionate about building scalable systems, microservices, and innovative solutions. With experience in backend development, cloud infrastructure, and data engineering, I love tackling complex problems with clean, efficient code.
 
-## 🚀 About Me
-- 🔭 I’m currently working on [your current project or job]
-- 🌱 I’m learning [skills or technologies you're exploring]
-- 👯 I’m looking to collaborate on [types of projects or ideas]
-- 💬 Ask me about [topics you’re knowledgeable in]
-- 📫 How to reach me: [email, Twitter, LinkedIn, etc.]
-- ⚡ Fun fact: [something quirky or interesting about you]
+---
+
+## 🔧 What I Do
+- **Backend Development**: Crafting RESTful APIs and microservices with Go, Node.js, and C#.
+- **Cloud & DevOps**: Deploying on AWS (EKS, Lambda, S3) and automating with Kubernetes, Docker, and Terraform.
+- **Data Engineering**: Optimizing pipelines with Python, Airflow, and Kafka for real-time analytics.
+- **Projects**: From blockchain certificate systems to distributed task processing—check them out below!
+
+Currently, I’m enhancing NYU’s Business Intelligence portal with AWS and React.js.
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages**: [e.g., Python, JavaScript, Java]
-- **Frameworks**: [e.g., React, Django, Spring]
-- **Tools**: [e.g., Git, Docker, VS Code]
-- **Other**: [e.g., AWS, SQL, Machine Learning]
+- **Languages**: Go, Python, Java, C#, JavaScript, TypeScript, C/C++
+- **Frameworks**: Node.js, Flask, ASP.NET, React.js, Tailwind CSS
+- **Databases**: MySQL, MongoDB, Cassandra
+- **Cloud & Tools**: AWS, GCP, Docker, Kubernetes, Jenkins, GitHub Actions, Kafka, Redis
+- **Skills**: System Design, DSA, REST APIs, OAuth2, Microservices
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+---
 
-## 🌟 Featured Projects
-- **[Project Name](project-link)**: [Short description of what it does]  
-  _Tech used: [list technologies]_  
-- **[Project Name](project-link)**: [Short description]  
-  _Tech used: [list technologies]_
+## 📬 Let’s Connect!
+- 📧 Email: [pk3047@nyu.edu](mailto:prashanth8983@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/pk8983](https://linkedin.com/in/pk8983)  
 
-## 📝 Latest Blog Posts
-- [Blog Post Title](link) - [Date]
-- [Blog Post Title](link) - [Date]
+Feel free to reach out—I’m always up for a chat about tech, collaboration, or coffee! ☕
 
-## 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />]([your-linkedin-url])
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />]([your-twitter-url])
-[<img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" />]([your-website-url])
+---
 
-Thanks for stopping by! Feel free to explore my repos or say hi! 😄
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashanth8983&show_icons=true&theme=radical)
