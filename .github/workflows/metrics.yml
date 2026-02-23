@@ -54,15 +54,16 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-      - name: Achievements
+      - name: Habits
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           user: prashanth8983
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 0
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_from: 200
